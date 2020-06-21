@@ -1,0 +1,18 @@
+export const MY_SOCKET_ID = "MY_SOCKET_ID";
+export const GET_ROOM_LIST = "GET_ROOM_LIST";
+export const MATCHING_SOMEONE = "MATCHING_SOMEONE";
+export const SEND_CHAT = "SEND_CHAT";
+export const RECEIVE_CHAT = "RECEIVE_CHAT";
+export const CLEAR_CHAT = "CLEAR_CHAT";
+export const GET_CHAT_LIST = "GET_CHAT_LIST";
+export const GET_PARTNER_INFO = "GET_PARTNER_INFO";
+
+export const USER_SIGN_UP = "USER_SIGN_UP";
+export const USER_SIGN_UP_RESULT = "USER_SIGN_UP_RESULT";
+export const USER_SIGN_IN = "USER_SIGN_IN";
+export const USER_SIGN_IN_RESULT = "USER_SIGN_IN_RESULT";
+export const GET_USERS = "GET_USERS";
+export const USER_LOGOUT = "USER_LOGOUT";
+export const USER_EDIT_PROFILE_RESULT = "USER_EDIT_PROFILE_RESULT";
+export const USER_ID_DUPLICATE = "USER_ID_DUPLICATE";
+export const USER_NAME_DUPLICATE = "USER_NAME_DUPLICATE";
