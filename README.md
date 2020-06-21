@@ -1,8 +1,8 @@
 # Hello Stranger
 > ## Getting Started
 > * 서버 
->   $ node server/server
+>   <pre><code>$ node server/server</code></pre>
 > * 채팅 서버
->   $ node server/chat_server
+>   <pre><code>$ node server/chat_server</code></pre>
 > * browser open!
->   $ npm start
+>   <pre><code>$ npm start</code></pre>
